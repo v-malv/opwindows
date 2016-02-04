@@ -22,6 +22,9 @@
       }
     ],
     "template": "op.html",
-    "dest": "opwindows"
+    "dest": "opwindows",
+    "globalMetadata": {
+      "layout": "Conceptual",
+      "breadcrumb_path": "/bctechnet/toc.json"
   }
 }
