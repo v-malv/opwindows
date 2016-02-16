@@ -22,9 +22,5 @@
       }
     ],
     "template": "op.html",
-    "dest": "opwindows",
-    "globalMetadata": {
-      "layout": "Conceptual",
-      "breadcrumb_path": "/opmsdnbc/toc.json"
-  }
+    "dest": "opwindows"
 }
