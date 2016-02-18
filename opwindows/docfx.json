@@ -23,4 +23,5 @@
     ],
     "template": "op.html",
     "dest": "opwindows"
+  }
 }
