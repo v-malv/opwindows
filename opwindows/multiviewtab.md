@@ -1,3 +1,11 @@
+---
+2.3.0.0: .NET Framework 2.0
+2.3.5.0: Windows Store apps, .NET Framework 4, Silverlight 5
+2.3.5.1: Windows Store apps, .NET Framework 4, Silverlight 5
+3.3.1.0: Windows Store apps, .NET Framework 4.5
+4.3.0.0: .NET Framework 4, .NET Framework 4.5
+4.3.1.0: .NET Framework 4, .NET Framework 4.5
+---
 # Multiview Table
 
 ## No.1
